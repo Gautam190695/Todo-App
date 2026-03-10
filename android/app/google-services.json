@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600055012348",
+    "project_id": "robust-d89d2",
+    "storage_bucket": "robust-d89d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600055012348:android:fba6785aa7d03f297bf079",
+        "android_client_info": {
+          "package_name": "com.ted.robust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_DZ7Y4MhMKgwL50ayrMuTjrqq-ARiv0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
